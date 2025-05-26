@@ -1,4 +1,4 @@
 # first_repo
-my first git repository
+my first Git Repository
 <br>
 Author - Spreeha
